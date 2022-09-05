@@ -65,7 +65,6 @@ while (flag) {
           if (albumByID != undefined) {
             console.log(albumByID);
           } else {
-            2;
             alert("ID NOT EXIST");
           }
           break;
